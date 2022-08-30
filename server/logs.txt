@@ -1,0 +1,50 @@
+majd worker
+majd worker
+majd worker
+majd worker
+majd worker
+majd worker
+majd worker
+majd worker
+8000
+8000
+8000
+8000
+8000
+8000
+8000
+8000
+::1 - - [19/Aug/2022:12:37:26 +0000] "GET /planets HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+::1 - - [19/Aug/2022:12:37:26 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:8000/planets" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
+majd worker
+majd worker
+8000
+8000
